@@ -35,15 +35,10 @@ python main.py
 O programa irá aguardar novos arquivos PDF na pasta e os imprimirá automaticamente. Em anexo junto a esse repo, adicionei o recibo na qual ele espera receber na pasta `C:/RecibosAutomaticos`.
 
  O fluxo é assim:
- 1- Uusário baixa o comprovante do sistema do clube dos associados.
+ 1- Usário baixa o comprovante do sistema do clube dos associados.
  2- Salva na pasta monitorada `C:/RecibosAutomaticos`.
- 3- aguarda o processamento e impressão (5segundos~).
+ 3- Aguarda o processamento e impressão (5 segundos ~).
 
-## Personalização
 
-Se necessário, ajuste a função `processar_dados` para extrair diferentes informações dos PDFs.
-
-## Licença
-
-Este projeto é de uso interno e pode ser adaptado conforme necessário.
+...
 
