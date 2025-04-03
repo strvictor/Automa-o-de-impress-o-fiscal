@@ -32,7 +32,12 @@ Execute o script para iniciar o monitoramento:
 python main.py
 ```
 
-O programa irá aguardar novos arquivos PDF na pasta e os imprimirá automaticamente.
+O programa irá aguardar novos arquivos PDF na pasta e os imprimirá automaticamente. Em anexo junto a esse repo, adicionei o recibo na qual ele espera receber na pasta `C:/RecibosAutomaticos`.
+
+ O fluxo é assim:
+ 1- Uusário baixa o comprovante do sistema do clube dos associados.
+ 2- Salva na pasta monitorada `C:/RecibosAutomaticos`.
+ 3- aguarda o processamento e impressão (5segundos~).
 
 ## Personalização
 
