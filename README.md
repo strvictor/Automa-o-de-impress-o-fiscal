@@ -29,7 +29,7 @@ Edite as variáveis no código para adaptar ao seu ambiente:
 Execute o script para iniciar o monitoramento:
 
 ```sh
-python monitor_recibos.py
+python main.py
 ```
 
 O programa irá aguardar novos arquivos PDF na pasta e os imprimirá automaticamente.
